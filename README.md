@@ -4,6 +4,7 @@ Completed a data analysis project using Python and various data science librarie
 Explored a food reviews dataset from Kaggle, employing tools such as NumPy, Pandas, TQDM, NLTK, and Matplotlib on Jupyter Notebook.
 📈 Data Manipulation:
 Successfully loaded and reduced the dataset to a manageable size of 500 records for efficient analysis.
+data set can be found online at https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data
 📊 Visualizations:
 Visualized the distribution of ratings (1-5) through a bar graph, gaining insights into the review landscape.
 📝 Natural Language Processing (NLP):
